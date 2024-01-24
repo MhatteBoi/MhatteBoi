@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**MhatteBoi/MhatteBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>MhatteBoi</h1>
+<h3>About me </h3>
 
-Here are some ideas to get you started:
+<ul> 
+<li>🔭  C#, JS, CSS, Figma, Tailwind. what im looking forward to is learning  Vue.JS, Webflow, WordPress.</li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<li>🌱 I’m currently learning - C#</li>
+
+<li>💬 Ask me about - Camping :)</li>
+
+<li>📫 How to reach me: roswallwebbtuc.se</li>
+
+<li>⚡ Fun fact - If you consider the approximate 200,000-year timeline of modern Homo sapiens, the year 2024 represents just a tiny fraction of that span. To put it in perspective, if you imagine compressing the entire human history into a single calendar year, with the first day representing the emergence of Homo sapiens, then the current year 2024 would only be a few seconds before midnight on December 31st. It's a fascinating way to highlight the relatively brief period of time that our modern societies have existed in the context of our species' existence.</li>
+  
+</ul>
