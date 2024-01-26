@@ -6,7 +6,7 @@
 <ul> 
 <li>🔭  C#, JS, CSS, Figma, Tailwind. what im looking forward to is learning  Vue.JS, Webflow, WordPress.</li>
 
-<li>🌱 I’m currently learning - C#</li>
+<li>🌱 I’m currently learning - C#, Razor Pages, blazor </li>
 
 <li>💬 Ask me about - Camping :)</li>
 
