@@ -4,9 +4,9 @@
 <h3>About me </h3>
 
 <ul> 
-<li>🔭  C#, JS, CSS, Figma, Tailwind. what im looking forward to is learning  next.js angular, react you name it, WordPress, umbracco and pretty much anything!</li>
+<li>🔭  C#, JS, CSS, Figma, .NET,  Tailwind. what im looking forward to is learning  next.js angular, react you name it, WordPress, umbracco and pretty much anything!</li>
 
-<li>🌱 I’m currently learning - C#, Razor Pages, blazor </li>
+<li>🌱 I’m currently learning - React, angular </li>
 
 <li>💬 Ask me about - Camping :)</li>
 
