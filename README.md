@@ -1,17 +1,2 @@
-### Hi there 👋
-
-<h1>MhatteBoi</h1>
-<h3>About me </h3>
-
-<ul> 
-<li>🔭  C#, JS, CSS, Figma, .NET,  Tailwind. what im looking forward to is learning  next.js angular, react you name it, WordPress, umbracco and pretty much anything!</li>
-
-<li>🌱 I’m currently learning - React, angular </li>
-
-<li>💬 Ask me about - Camping :)</li>
-
-<li>📫 How to reach me: Mhattias.r@gmail.com</li>
-
-<li>⚡ Fun fact - If you consider the approximate 200,000-year timeline of modern Homo sapiens, the year 2024 represents just a tiny fraction of that span. To put it in perspective, if you imagine compressing the entire human history into a single calendar year, with the first day representing the emergence of Homo sapiens, then the current year 2024 would only be a few seconds before midnight on December 31st. It's a fascinating way to highlight the relatively brief period of time that our modern societies have existed in the context of our species' existence.</li>
-  
-</ul>
+Hi there 👋
+<h1>MhatteBoi</h1> <h3>About Me</h3> <ul> <li>🔭 I’m a beginner fullstack developer exploring the web one line of code at a time. My current stack includes **C#, .NET, Angular, Next.js, Blazor, WordPress**, and **Tailwind CSS**. I also enjoy diving into tools like **Figma** for UX/UI design.</li> <li>🌱 I’m always learning! Right now, I’m focused on **React** and sharpening my skills with **Angular**. I’m also exploring cloud development with **Azure** and **Firebase** to build scalable apps.</li> <li>💬 Ask me about **.NET development**, **outdoor adventures**, or anything about **mountain biking** and **camping**—I love being in nature as much as I love coding!</li> <li>📫 Reach me at: **Mhattias.r@gmail.com**</li> <li>⚡ Fun fact: When I’m not building apps, you’ll find me exploring unconventional books, thinking about stoicism, or cooking up something tasty outdoors. (Yes, winter camping is a thing!)</li> </ul>
