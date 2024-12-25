@@ -1,31 +1,50 @@
+<h1>Hi there! 👋</h1>
+<h2>Welcome to <strong>MhatteBoi's GitHub</strong></h2>
 
-Here's an improved, styled version that organizes the content into sections for better readability:
+<hr>
 
-Hi there! 👋
-Welcome to MhatteBoi's GitHub
-🌟 About Me
-🎯 Who am I?
-I’m a beginner fullstack developer passionate about creating digital solutions. My journey into web development is powered by curiosity and the drive to build things that make an impact.
+<h2>🌟 About Me</h2>
 
-💻 What I’m working with:
+<h3>🎯 Who am I?</h3>
+<p>I’m a beginner fullstack developer passionate about creating digital solutions. My journey into web development is powered by curiosity and the drive to build things that make an impact.</p>
 
-Languages & Frameworks:
-C#, .NET, Angular, Next.js, Blazor
-Tailwind CSS, WordPress
-Tools:
-Figma for UX/UI
-🌱 What I’m learning right now:
+<h3>💻 What I’m working with:</h3>
+<ul>
+  <li><strong>Languages & Frameworks:</strong>
+    <ul>
+      <li>C#, .NET, Angular, Next.js, Blazor</li>
+      <li>Tailwind CSS, WordPress</li>
+    </ul>
+  </li>
+  <li><strong>Tools:</strong>
+    <ul>
+      <li>Figma for UX/UI</li>
+    </ul>
+  </li>
+</ul>
 
-React and deepening my Angular expertise.
-Exploring cloud tools like Azure and Firebase for app scalability.
-🌍 Outside of Coding
-🌲 Ask me about:
+<h3>🌱 What I’m learning right now:</h3>
+<ul>
+  <li>React and deepening my Angular expertise.</li>
+  <li>Exploring cloud tools like <strong>Azure</strong> and <strong>Firebase</strong> for app scalability.</li>
+</ul>
 
-Outdoor adventures: mountain biking, camping (yes, even in winter!).
-Philosophy and stoicism: I love reflecting on how to live a simple and fulfilling life.
-📚 Fun fact:
-When I’m not building apps, I enjoy reading unconventional books, cooking outdoors, and embracing the beauty of nature.
+<hr>
 
-📬 Contact Me
-📧 Email: Mhattias.r@gmail.com
+<h2>🌍 Outside of Coding</h2>
 
+<h3>🌲 Ask me about:</h3>
+<ul>
+  <li>Outdoor adventures: mountain biking, camping (yes, even in winter!).</li>
+  <li>Philosophy and stoicism: I love reflecting on how to live a simple and fulfilling life.</li>
+</ul>
+
+<h3>📚 Fun fact:</h3>
+<p>When I’m not building apps, I enjoy reading unconventional books, cooking outdoors, and embracing the beauty of nature.</p>
+
+<hr>
+
+<h2>📬 Contact Me</h2>
+<p>📧 <strong>Email:</strong> <a href="mailto:Mhattias.r@gmail.com">Mhattias.r@gmail.com</a></p>
+
+<hr>
