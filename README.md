@@ -1,2 +1,31 @@
-Hi there 👋
-<h1>MhatteBoi</h1> <h3>About Me</h3> <ul> <li>🔭 I’m a beginner fullstack developer exploring the web one line of code at a time. My current stack includes **C#, .NET, Angular, Next.js, Blazor, WordPress**, and **Tailwind CSS**. I also enjoy diving into tools like **Figma** for UX/UI design.</li> <li>🌱 I’m always learning! Right now, I’m focused on **React** and sharpening my skills with **Angular**. I’m also exploring cloud development with **Azure** and **Firebase** to build scalable apps.</li> <li>💬 Ask me about **.NET development**, **outdoor adventures**, or anything about **mountain biking** and **camping**—I love being in nature as much as I love coding!</li> <li>📫 Reach me at: **Mhattias.r@gmail.com**</li> <li>⚡ Fun fact: When I’m not building apps, you’ll find me exploring unconventional books, thinking about stoicism, or cooking up something tasty outdoors. (Yes, winter camping is a thing!)</li> </ul>
+
+Here's an improved, styled version that organizes the content into sections for better readability:
+
+Hi there! 👋
+Welcome to MhatteBoi's GitHub
+🌟 About Me
+🎯 Who am I?
+I’m a beginner fullstack developer passionate about creating digital solutions. My journey into web development is powered by curiosity and the drive to build things that make an impact.
+
+💻 What I’m working with:
+
+Languages & Frameworks:
+C#, .NET, Angular, Next.js, Blazor
+Tailwind CSS, WordPress
+Tools:
+Figma for UX/UI
+🌱 What I’m learning right now:
+
+React and deepening my Angular expertise.
+Exploring cloud tools like Azure and Firebase for app scalability.
+🌍 Outside of Coding
+🌲 Ask me about:
+
+Outdoor adventures: mountain biking, camping (yes, even in winter!).
+Philosophy and stoicism: I love reflecting on how to live a simple and fulfilling life.
+📚 Fun fact:
+When I’m not building apps, I enjoy reading unconventional books, cooking outdoors, and embracing the beauty of nature.
+
+📬 Contact Me
+📧 Email: Mhattias.r@gmail.com
+
