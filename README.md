@@ -12,8 +12,8 @@
 <ul>
   <li><strong>Languages & Frameworks:</strong>
     <ul>
-      <li>C#, .NET, Angular, Next.js, Blazor</li>
-      <li>Tailwind CSS, WordPress</li>
+      <li>C#, .NET, Angular, Next.js, Blazor, React</li>
+      <li>Tailwind CSS, WordPress, Firebase, SQL</li>
     </ul>
   </li>
   <li><strong>Tools:</strong>
