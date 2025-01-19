@@ -6,7 +6,7 @@
 <h2>🌟 About Me</h2>
 
 <h3>🎯 Who am I?</h3>
-<p>I’m a beginner fullstack developer passionate about creating digital solutions. My journey into web development is powered by curiosity and the drive to build things that make an impact.</p>
+<p>I’m a fullstack developer passionate about creating digital solutions. My journey into web development is powered by curiosity and the drive to build things that make an impact.</p>
 
 <h3>💻 What I’m working with:</h3>
 <ul>
