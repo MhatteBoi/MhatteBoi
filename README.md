@@ -12,20 +12,21 @@
 <ul>
   <li><strong>Languages & Frameworks:</strong>
     <ul>
-      <li>C#, .NET, Angular, Next.js, Blazor, React</li>
+      <li>C#, .NET, Angular, Next.js, Blazor, React, Svelte, Deno / Node</li>
       <li>Tailwind CSS, WordPress, Firebase, SQL</li>
     </ul>
   </li>
   <li><strong>Tools:</strong>
     <ul>
       <li>Figma for UX/UI</li>
+      <li>AI: Cursor, DeepSeek, Perplexity, OpenAI, V0</li>
     </ul>
   </li>
 </ul>
 
 <h3>🌱 What I’m learning right now:</h3>
 <ul>
-  <li>React and deepening my Angular expertise.</li>
+  <li>NextJs and deepening my Angular expertise. Deno and Node </li>
   <li>Exploring cloud tools like <strong>Azure</strong> and <strong>Firebase</strong> for app scalability.</li>
 </ul>
 
