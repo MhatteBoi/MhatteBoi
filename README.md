@@ -1,5 +1,5 @@
 <h1>Hi there! 👋</h1>
-<h2>Welcome to <strong>MhatteBoi's GitHub</strong></h2>
+<h2>Welcome to <strong>My GitHub</strong></h2>
 
 <hr>
 
