@@ -19,7 +19,7 @@
   <li><strong>Tools:</strong>
     <ul>
       <li>Figma for UX/UI</li>
-      <li>AI: Cursor, DeepSeek, Perplexity, OpenAI, V0</li>
+      <li>AI: Cursor,  Perplexity, OpenAI, V0</li>
     </ul>
   </li>
 </ul>
