@@ -6,7 +6,7 @@
 <h2>🌟 About Me</h2>
 
 <h3>🎯 Who am I?</h3>
-<p>I’m a fullstack developer passionate about creating digital solutions. My journey into web development is powered by curiosity and the drive to build things that make an impact.</p>
+<p>I’m a fullstack developer passionate about creating digital solutions. My journey into web development is powered by curiosity and the drive to build things that make an impact. I´m a great listner to the clients needs, i´m calm and can work in a good and proficient way under stress and i´m great at creating ideas off from other ideas, a creative thinker you could say. Thats three phrases to describe me, great listner, calm, creative thinking!</p>
 
 <h3>💻 What I’m working with:</h3>
 <ul>
