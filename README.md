@@ -27,8 +27,8 @@
 <h3>🌱 What I’m learning right now:</h3>
 <ul>
   <li>NextJs and deepening my Angular expertise. Deno and Node </li>
-  <li>Exploring cloud tools like <strong>Azure</strong> and <strong>Firebase</strong> for app scalability.</li>
-  <li>Next on my list is MongoDb, more .NET and Docker </li>
+  <li>Exploring cloud tools like <strong>Supabase</strong> for app scalability.</li>
+  <li>Next on my list is MongoDb, more .NET and Docker, sort of getting in to the DevOps </li>
 </ul>
 
 <hr>
