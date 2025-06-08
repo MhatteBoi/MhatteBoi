@@ -13,7 +13,7 @@
   <li><strong>Languages & Frameworks:</strong>
     <ul>
       <li>C#, .NET, Angular, Next.js, Blazor, React, Svelte, Deno / Node</li>
-      <li>Tailwind CSS, WordPress, Firebase, SQL</li>
+      <li>Tailwind CSS, WordPress, Firebase, Supabase, SQL</li>
     </ul>
   </li>
   <li><strong>Tools:</strong>
