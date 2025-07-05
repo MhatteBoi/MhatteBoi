@@ -26,9 +26,9 @@
 
 <h3>🌱 What I’m learning right now:</h3>
 <ul>
-  <li>NextJs and deepening my Angular expertise. Deno and Node </li>
+  <li>SvelteKit and deepening my NodeJs, REST:Api and project management skills </li>
   <li>Exploring cloud tools like <strong>Supabase</strong> for app scalability.</li>
-  <li>Next on my list is MongoDb, more .NET and Docker, sort of getting in to the DevOps </li>
+  <li>Next on my list is MongoDb, Docker, sort of getting in to the DevOps </li>
 </ul>
 
 <hr>
